@@ -1,9 +1,9 @@
-# [Group name]
+# [MPP]
 
 **Group members:**
-- A
-- B
-- C
+- Mads Leth Dahl
+- Philip de Neergaard
+- Peter Darling Wegener
 
 **This repository contains:***
 
